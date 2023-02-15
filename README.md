@@ -5,7 +5,7 @@ Simple C++ &amp; SFML game. The goal is to find blue door within limited time. T
 ![image](https://user-images.githubusercontent.com/72302279/219120700-8def52bd-c95d-4765-bda5-7697d39ae053.png)
 ![image](https://user-images.githubusercontent.com/72302279/219120848-a5286312-ea01-4453-bb86-3efc158eccb6.png)
 ![image](https://user-images.githubusercontent.com/72302279/219121050-6d7d63c0-2c99-4469-9387-48104f0d629b.png)
-![image](https://user-images.githubusercontent.com/72302279/219136131-2b903ed3-ee8b-4ba5-b73c-7042e8d208e4.png)
+![image](https://user-images.githubusercontent.com/72302279/219138208-e3343120-759c-4612-8b97-a1dae8deaba0.png)
 ![image](https://user-images.githubusercontent.com/72302279/219121250-d70f45a9-ce80-4d15-9f14-0f252f2c5a55.png)
 ![image](https://user-images.githubusercontent.com/72302279/219123316-00a619c8-f151-4820-ae2e-646dc2950dd1.png)
 ![image](https://user-images.githubusercontent.com/72302279/219122484-756e409d-622a-4260-93ad-4149777195a0.png)
