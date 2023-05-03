@@ -1,4 +1,4 @@
-# maze-game
+# Maze-game
 Simple C++ &amp; SFML game. The goal is to find blue door within limited time. The faster you do it, the higher score you get.
 
 ![image](https://user-images.githubusercontent.com/72302279/219120232-3f6ff2d5-1943-419b-85d6-f9c598d1d302.png)
